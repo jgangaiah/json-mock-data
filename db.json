@@ -1,0 +1,24 @@
+{
+  "vinlookup": [
+    {
+      "id": "ZRgPP9dBMm",
+      "vin": "ZRgPP9dBMm",
+      "year": "2022",
+      "make": "Audi",
+      "model": "Q3",
+      "category": "SUV",
+      "createdAt": "2022-01-27T20:44:17.665Z",
+      "updatedAt": "2022-01-27T20:44:17.665Z"
+    },
+    {
+      "id": "cptB1C1NSL",
+      "vin": "cptB1C1NSL",
+      "year": "2022",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "category": "Sedan",
+      "createdAt": "2022-01-27T20:44:17.665Z",
+      "updatedAt": "2022-01-27T20:44:17.665Z"
+    }
+  ]
+}
