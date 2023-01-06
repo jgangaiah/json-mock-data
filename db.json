@@ -1,24 +1,74 @@
 {
   "vinlookup": [
-    {
-      "id": "ZRgPP9dBMm",
-      "vin": "ZRgPP9dBMm",
-      "year": "2022",
-      "make": "Audi",
-      "model": "Q3",
-      "category": "SUV",
-      "createdAt": "2022-01-27T20:44:17.665Z",
-      "updatedAt": "2022-01-27T20:44:17.665Z"
-    },
-    {
-      "id": "cptB1C1NSL",
-      "vin": "cptB1C1NSL",
-      "year": "2022",
-      "make": "Chevrolet",
-      "model": "Malibu",
-      "category": "Sedan",
-      "createdAt": "2022-01-27T20:44:17.665Z",
-      "updatedAt": "2022-01-27T20:44:17.665Z"
-    }
+  {
+    "id": "ZRgPP9dBMm",
+    "vin": "ZRgPP9dBMm",
+    "year": "2022",
+    "make": "Audi",
+    "model": "Q3",
+    "category": "SUV",
+    "createdAt": "2022-01-27T20:44:17.665Z",
+    "updatedAt": "2022-01-27T20:44:17.665Z"
+  },
+  {
+    "id": "cptB1C1NSL",
+    "vin": "cptB1C1NSL",
+    "year": "2022",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "category": "Sedan",
+    "createdAt": "2022-01-27T20:44:17.665Z",
+    "updatedAt": "2022-01-27T20:44:17.665Z"
+  },
+  {
+    "id": "ElhqsRZDnP",
+    "vin": "ElhqsRZDnP",
+    "year": "2022",
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "category": "SUV",
+    "createdAt": "2022-01-27T20:44:17.665Z",
+    "updatedAt": "2022-01-27T20:44:17.665Z"
+  },
+  {
+    "id": "LUzyWMYJpW",
+    "vin": "LUzyWMYJpW",
+    "year": "2022",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "category": "Coupe, Convertible",
+    "createdAt": "2022-01-27T20:44:17.665Z",
+    "updatedAt": "2022-01-27T20:44:17.665Z"
+  },
+  {
+    "id": "rDkHakOBKP",
+    "vin": "rDkHakOBKP",
+    "year": "2022",
+    "make": "Acura",
+    "model": "RLX",
+    "category": "Sedan",
+    "createdAt": "2022-01-27T20:44:17.665Z",
+    "updatedAt": "2022-01-27T20:44:17.665Z"
+  },
+  {
+    "id": "1JARpJ2AUB",
+    "vin": "1JARpJ2AUB",
+    "year": "2022",
+    "make": "Chevrolet",
+    "model": "Silverado 2500 HD Crew Cab",
+    "category": "Pickup",
+    "createdAt": "2022-01-27T20:44:17.665Z",
+    "updatedAt": "2022-01-27T20:44:17.665Z"
+  },
+  {
+    "id": "7G1VT2pSNO",
+    "vin": "7G1VT2pSNO",
+    "year": "2022",
+    "make": "BMW",
+    "model": "3 Series",
+    "category": "Sedan",
+    "createdAt": "2022-01-27T20:44:17.665Z",
+    "updatedAt": "2022-01-27T20:44:17.665Z"
+  }
   ]
 }
